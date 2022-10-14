@@ -14,7 +14,7 @@ configurations and tasks for [Zephyr](https://github.com/zephyrproject-rtos/zeph
 Here you can find the decription of this repository and it's usage. Depending on
 new features development new description paragraphs can be added.
 
-**Note:** Currently only `Ubuntu Linux` with `zephyr-sdk-0.11.4` were tested!
+**Note:** This guide has been tested on `Ubuntu 22.04` with `zephyr-sdk-0.15.1`!
 
 You're welcome to make changes on this repository.
 Just fork it and provide a PR with the changes you need.
