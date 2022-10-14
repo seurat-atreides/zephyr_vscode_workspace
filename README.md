@@ -16,12 +16,12 @@ new features development new description paragraphs can be added.
 
 **Note:** Currently only `Ubuntu Linux` with `zephyr-sdk-0.11.4` were tested!
 
-You're also welcome to made changes on this repository.
-Just fork it and provide PR with meaningfull changes you need.
-I will bea ble to review it in couple of days.
+You're welcome to make changes on this repository.
+Just fork it and provide a PR with the changes you need.
+I will usualy review the PR in couple of days.
 
 ## 1. Getting started
-Follow this simple steps to simplify your Zephyr development in VSCode:
+Follow these steps to simplify your Zephyr development in VSCode:
 
 1. Follow Zephyr's latest [Getting Started Guide](https://docs.zephyrproject.org/latest/getting_started/index.html)
 2. Switch to yout `zephyrproject` path from terminal:
